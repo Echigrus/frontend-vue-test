@@ -37,5 +37,5 @@ mix.webpackConfig({
         proxy: {
           '*': 'http://webserver:8080'
         }
-    },
+    }
 });
